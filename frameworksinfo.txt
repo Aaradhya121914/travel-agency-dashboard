@@ -1,0 +1,8 @@
+appwrite-
+Appwrite is an open-source, all-in-one development platform. Use built-in backend infrastructure and web hosting, all from a single place.
+
+Sentry-
+Sentry is an error monitoring platform designed to help developers quickly detect, diagnose and resolve problems in their applications.
+
+Syncfusion-
+The Syncfusion React js UI components library is only suite that you will ever need to build application since it contains over 90 high-performance,lightweight,modular,and responsive UI components in single package.
