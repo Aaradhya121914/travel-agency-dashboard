@@ -6,3 +6,17 @@ Sentry is an error monitoring platform designed to help developers quickly detec
 
 Syncfusion-
 The Syncfusion React js UI components library is only suite that you will ever need to build application since it contains over 90 high-performance,lightweight,modular,and responsive UI components in single package.
+
+
+
+
+
+
+
+
+
+
+
+
+
+google people API- after enabling this,we are able to extract profile folder from every user
